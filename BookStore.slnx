@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BookStore.Core/BookStore.Core.csproj" Id="933d7294-febb-4f5f-9fa3-3b403f1f9821" />
+  <Project Path="BookStore.DataAccess/BookStore.DataAccess.csproj" />
+  <Project Path="BookStore/BookStore.csproj" />
+</Solution>
